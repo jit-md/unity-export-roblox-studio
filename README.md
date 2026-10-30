@@ -1,6 +1,6 @@
 # Unity → Roblox Studio Exporter
 
-> **Agent-friendly repository:** AI coding agents are welcome. Start with [AGENTS.md](AGENTS.md) for instructions and [AGENT-SYNC.md](AGENT-SYNC.md) for A2A v1.0 Git-based handoff and persistence conventions. A2A data is stored only when needed, with no prescribed Git folder layout.
+> **Agent-friendly repository:** AI coding agents are welcome. Start with [AGENTS.md](AGENTS.md) for instructions and [AGENTS-SYNC.md](AGENTS-SYNC.md) for A2A v1.0 Git-based handoff and persistence conventions. A2A data is stored only when needed, with no prescribed Git folder layout.
 
 An experimental toolchain to **export selected Unity assets and scenes into Roblox Studio**, with a focus on reproducible conversion, clear compatibility reports, and the least possible manual rework.
 
