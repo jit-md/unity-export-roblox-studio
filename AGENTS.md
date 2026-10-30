@@ -1,6 +1,6 @@
 # AGENTS.md — Unity → Roblox Studio Exporter
 
-For A2A agent handoffs and persistence rules, read [AGENT-SYNC.md](AGENT-SYNC.md). Storage is created only when needed; no A2A server or complete transcript recorder is implied.
+For A2A agent handoffs and persistence rules, read [AGENTS-SYNC.md](AGENTS-SYNC.md). Storage is created only when needed; no A2A server or complete transcript recorder is implied.
 
 These instructions apply to all files in this repository. Read `README.md` and `docs/PROJECT_VISION.md` first.
 
