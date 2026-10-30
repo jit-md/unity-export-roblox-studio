@@ -1,6 +1,6 @@
 ## A2A durable handoff
 
-For cross-agent handoffs, see [`.a2a/README.md`](.a2a/README.md) for the Git-backed A2A v1.0 object store, [`.a2a/manifest.json`](.a2a/manifest.json) for store capabilities, and [`AGENT-SYNC.md`](AGENT-SYNC.md) for recording, permissions and exchange rules. Do not infer the existence of an A2A endpoint or any archived conversations from bootstrap files.
+For cross-agent handoffs, use [`.a2a/manifest.json`](.a2a/manifest.json) for the Git-backed A2A v1.0 store, and [`AGENT-SYNC.md`](AGENT-SYNC.md) for recording, permissions and exchange rules. Do not infer the existence of an A2A endpoint or any archived conversations from bootstrap files.
 
 # AGENTS.md — Unity → Roblox Studio Exporter
 
