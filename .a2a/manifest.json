@@ -1,0 +1,16 @@
+{
+  "schema": "jit-md/a2a-git-store/v1",
+  "a2aVersion": "1.0",
+  "repository": "jit-md/unity-export-roblox-studio",
+  "mode": "offline-git",
+  "activeEndpoint": null,
+  "recordingEnabled": false,
+  "historyImported": false,
+  "paths": {
+    "contexts": "contexts/",
+    "tasks": "tasks/",
+    "artifacts": "artifacts/",
+    "state": "state.json"
+  },
+  "note": "Git storage layout is a local convention; payloads must use A2A v1.0 data model. No complete conversation captured automatically."
+}
