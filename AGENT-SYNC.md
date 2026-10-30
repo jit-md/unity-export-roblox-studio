@@ -1,6 +1,6 @@
 ## Canonical storage location
 
-The active repository-local A2A v1.0 Git persistence structure now lives under [`.a2a/`](.a2a/README.md). The prior ` .a2a/` paths below are historical design examples only and **must not** be used for new records. Store new authorized payloads using `.a2a/contexts/`, `.a2a/tasks/` and `.a2a/artifacts/`; `.a2a/manifest.json` describes the profile. No A2A endpoint or automatic recorder has been deployed.
+The active repository-local A2A v1.0 Git persistence structure now lives under [`.a2a/`](.a2a/manifest.json). The prior ` .a2a/` paths below are historical design examples only and **must not** be used for new records. Store new authorized payloads using `.a2a/contexts/`, `.a2a/tasks/` and `.a2a/artifacts/`; `.a2a/manifest.json` describes the profile. No A2A endpoint or automatic recorder has been deployed.
 
 # AGENT-SYNC.md — A2A v1.0 + GitHub persistence profile
 
